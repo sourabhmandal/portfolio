@@ -1,7 +1,7 @@
 import { SectionTitle } from "./SectionTitle";
 export function BlogSection() {
   return (
-    <section className="bg-white mb-16">
+    <section className="bg-white py-16">
       <div className="px-4 mx-auto max-w-7xl sm:px-6 lg:px-8">
         <SectionTitle title="Blog" />
         <div className="grid max-w-3xl grid-cols-1 mx-auto text-center sm:text-left sm:grid-cols-2 gap-y-8 gap-x-8 lg:gap-x-20">

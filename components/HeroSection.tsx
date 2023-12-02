@@ -15,10 +15,10 @@ export function HeroSection() {
                   />
                 </span>{" "}
                 <p className="text-2xl font-bold leading-7 text-gray-900">
-                  &quot;The OS of Digital Businesses&quot;
+                  Embark on my business ventures
                   <span className="inline">
                     <img
-                      className="inline w-auto h-8 mx-4 sm:h-10 lg:h-11"
+                      className="inline w-4 h-auto mx-4 sm:h-10 lg:h-11"
                       src="https://landingfoliocom.imgix.net/store/collection/clarity-blog/images/hero/4/shape-2.svg"
                       alt="shape-2"
                     />
@@ -26,8 +26,8 @@ export function HeroSection() {
                 </p>
               </h1>
               <p className="mt-6 text-base font-normal leading-7 text-gray-900">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                Vehicula massa in enim luctus. Rutrum arcu.
+                Currently My focus is to create a delghful platform for youtube
+                creators to build and monetize their audience without hassle
               </p>
               <svg
                 className="w-auto h-4 mt-8 text-gray-300"

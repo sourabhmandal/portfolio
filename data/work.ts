@@ -1,7 +1,7 @@
 export const work: ITimelineElement[] = [
   {
-    title: "Stealth mode startup",
-    company: "Business OS",
+    title: "Youtube content manager",
+    company: "My Startup",
     details: "Building an end-to-end system for Social Media first Businesses",
     yearRange: "Aug 2023 - Still Pursuing",
     location: "Kolkata",

@@ -5,3 +5,8 @@ interface ITimelineElement {
   yearRange: string;
   location: string;
 }
+
+interface IYoutubeVideo {
+  id: string;
+  url: string;
+}

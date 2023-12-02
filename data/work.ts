@@ -3,14 +3,14 @@ export const work: ITimelineElement[] = [
     title: "Youtube content manager",
     company: "My Startup",
     details: "Building an end-to-end system for Social Media first Businesses",
-    yearRange: "Aug 2023 - Still Pursuing",
+    yearRange: "Sept 2023 - Still Pursuing",
     location: "Kolkata",
   },
   {
     title: "Youtube Channel Owner",
     company: "BitsOfMandal",
     details: "Sharing insights and value that I find useful",
-    yearRange: "Aug 2023 - Still Pursuing",
+    yearRange: "Sept 2023 - Still Pursuing",
     location: "Remote",
   },
   {
@@ -18,14 +18,14 @@ export const work: ITimelineElement[] = [
     company: "GrayMatter",
     details:
       "Backend for LLM model to interact with frontend along with authenticationa and authorization",
-    yearRange: "Aug 2023 - Still working",
+    yearRange: "Oct 2023 - Still working",
     location: "Kolkata",
   },
   {
     title: "Full Stack Developer (Freelance)",
     company: "Dextr Labs",
     details: "Backend for digital asset tokenization platform",
-    yearRange: "Aug 2023 - Still working",
+    yearRange: "Oct 2023 - Still working",
     location: "Remote",
   },
   {

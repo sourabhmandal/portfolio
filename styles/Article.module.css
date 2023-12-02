@@ -180,4 +180,43 @@
 
 .article html {
   font-size: 18px;
-  max-w
+  max-width: 100%;
+}
+
+.article body {
+  color: #444;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-weight: 300;
+  margin: 0 auto;
+  max-width: 48rem;
+  line-height: 1.45;
+  padding: .25rem;
+}
+
+.article h1,
+.article h2,
+.article h3,
+.article h4,
+.article h5,
+.article h6 {
+  font-family: Arimo, Helvetica, sans-serif;
+}
+
+.article h1,
+.article h2,
+.article h3 {
+  border-bottom: 2px solid #fafafa;
+  margin-bottom: 1.15rem;
+  padding-bottom: .5rem;
+  text-align: center;
+}
+
+.article blockquote {
+  border-left: 8px solid #fafafa;
+  padding: 1rem;
+}
+
+.article pre,
+.article code {
+  background-color: #fafafa;
+}
